@@ -1,0 +1,81 @@
+body {
+    background: gray;
+}
+.kotak1 {
+    width: 1330px;
+    height: 3720px;
+    background: blueviolet;
+    border: 2px solid  black;
+}
+.kotak2 {
+    background: white;
+    width: 1330px;
+    height: 205px;
+}
+h5 {
+    color: rgb(69, 18, 117);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 85px;
+    padding: 25px 190px;
+    margin-top: -175px;
+    text-align: center;
+}
+.gambar {
+    object-fit: cover;
+    width: 150px;
+    padding: 15px 20px;
+    border-radius: 30px;
+}
+.kotak3 {
+    width: 1120px;
+    height: 3280px;
+    background: whitesmoke;
+    border: 1px solid red;
+    margin: auto;
+    border-radius: 60px;
+}
+.teks1 {
+    text-align: center;
+    font-size: 100px;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20px;
+}
+.logoinstagram {
+    width: 290px;
+    object-fit: cover;
+    margin: auto; 
+    margin-top: -30px;  
+    padding: 0px 400px;
+}
+.menu {
+    background: blueviolet;
+    border: 3px solid white;
+    border-radius: 20px;
+    padding: 20px 80px;
+    transition: all;
+}
+.menu:hover {
+    box-shadow: 1px 10px 10px red;
+    transform: scale(1.00);
+}
+a {
+    color: white;
+    font-size: 60px;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.logotiktok {
+    width: 340px;
+    object-fit: cover;
+    margin: auto; 
+    margin-top: -70px;  
+    padding: 0px 390px;
+}
+.logofacebook {
+    width: 350px;
+    object-fit: cover;
+    margin: auto; 
+    margin-top: -70px;  
+    padding: 0px 370px;
+}
